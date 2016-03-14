@@ -7,6 +7,8 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+[![Join the chat at https://gitter.im/bjskistad/untitled_1](https://badges.gitter.im/bjskistad/untitled_1.svg)](https://gitter.im/bjskistad/untitled_1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Welcome to your Node.js project on Cloud9 IDE!
 
